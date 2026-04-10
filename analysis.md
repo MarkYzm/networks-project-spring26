@@ -10,14 +10,10 @@ All of these cables land Lagos traffic in Europe first, adding thousands of kilo
 
 ## Q2: Closest to Theoretical Minimum
 
-Frankfurt, Germany was closest to the theoretical minimum in my measurements.
-
-The low inefficiency ratio signals that the routing infrastructure is mature, well-provisioned, and routes traffic close to the physical optimum.
+Frankfurt, Germany was closest to the theoretical minimum in my measurements. The low inefficiency ratio signals that the routing infrastructure is mature, well-provisioned, and routes traffic close to the physical optimum.
 
 ---
 
 ## Q3: Why Does a Packet to Lagos Route Through Europe?
 
-Almost all submarine cables connecting West Africa to the rest of the world land in European cities rather than connecting directly to North America. 
-
-The fix is investment in direct-path submarine cables and local peering infrastructure — not a software or routing protocol change.
+Almost all submarine cables connecting West Africa to the rest of the world land in European cities rather than connecting directly to North America.  The fix is investment in direct-path submarine cables and local peering infrastructure, not a software or routing protocol change.
